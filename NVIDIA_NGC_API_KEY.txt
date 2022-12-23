@@ -1,0 +1,6 @@
+aTMyMHMyaW82cm1xdDllbDVrM2ZvNGVkaGY6ZDdmMTYwNDItYzE1ZC00MDNhLTlhNWItNDQ1YzE0NWJkN2Fl
+ngc config set
+docker login nvcr.io
+
+Username: $oauthtoken
+Password: aTMyMHMyaW82cm1xdDllbDVrM2ZvNGVkaGY6OGZmMmVjOGQtZjQzMi00MmQ4LWFlMTYtYzZkNzkyZmQxMjZm
