@@ -1,0 +1,10 @@
+{
+    "download_end": "2022-12-24 03:08:59.164343",
+    "download_start": "2022-12-24 03:08:56.159823",
+    "download_time": "3s",
+    "files_downloaded": 3,
+    "local_path": "/dli/task/ngc_assets/dashcamnet_vpruned_v1.0",
+    "size_downloaded": "6.65 MB",
+    "status": "Completed",
+    "transfer_id": "dashcamnet_vpruned_v1.0"
+}
